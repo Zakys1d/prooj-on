@@ -1,0 +1,100 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "El Messiri", sans-serif;
+
+}
+
+header img {
+	height: 100px;
+	width: 175px;
+	font-family: "El Messiri", sans-serif;
+}
+
+header {
+	background-color: red;
+}
+
+
+.header {
+	display: flex;
+
+}
+
+.header nav {
+	margin-top: 40px;
+}
+
+nav a {
+	text-decoration: none;
+	margin: 20px;
+	font-size: 30px;
+	color: white;
+	opacity: 0.7;
+
+
+}
+
+
+a:hover {
+	opacity: 1;
+	border-bottom: 3px solid white;
+
+
+}
+
+.f {
+	display: flex;
+}
+
+.f img {
+	height: 150px;
+	width: 200px;
+	padding: 50px;
+	margin: 20px;
+}
+
+footer {
+	background-color: red;
+
+}
+
+
+main img {
+	width: 100%;
+}
+
+footer img {
+	opacity: 0.5;
+}
+
+footer img:hover {
+	opacity: 1;
+}
+
+.latest div{
+	display: flex;
+	border: 1px solid grey;
+	border-radius: 1px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+
+.latest div img {
+	height: 120px;
+	width: 200px;
+}
+
+.latest div p {
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+.latest h1 {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
